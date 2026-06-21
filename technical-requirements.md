@@ -11,6 +11,7 @@
 * Use [Cloud Run](https://cloud.google.com/run)
 * Use [Cloud Monitoring](https://cloud.google.com/monitoring), [Cloud Logging](https://cloud.google.com/logging), [Error Reporting](https://cloud.google.com/error-reporting), and [Cloud Trace](https://cloud.google.com/trace)
 * Use [Firebase Hosting](https://firebase.google.com/products/hosting)
+* Use [Cloud Storage for Firebase](https://firebase.google.com/products/storage)
 * Use [Firebase Authentication](https://firebase.google.com/products/auth)
 * Use [Firebase Cloud Messaging](https://firebase.google.com/products/cloud-messaging)
 * Use [Neon](https://neon.com)
