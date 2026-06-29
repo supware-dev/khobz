@@ -26,3 +26,12 @@ Order Has an Id and Items
 * Review
 * Feedback (Post-Order) (Like/Dislike, Predefined Comments, Comment)
 * Profile Page (To Set Name and Phone Number)
+
+
+Livreur Section
+
+Notification (...)
+
+Opening Times Aware Ordering
+
+Ingredients Availability Management
